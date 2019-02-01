@@ -78,6 +78,7 @@ holiday_hash.each do |season, holiday|
   item
 end
 end
+end
 
     
 
